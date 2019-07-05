@@ -1,0 +1,28 @@
+rect {
+    fill: purple;
+}
+
+circle {
+    fill: purple;
+    stroke: pink;
+    stroke-width: 4;
+}
+
+polyline, polygon {
+    fill: none;
+}
+
+polyline {
+    stroke: purple;
+    stroke-width: 10;
+}
+
+polygon {
+    stroke: purple;
+    stroke-width: 5;
+}
+
+line {
+    stroke: pink;
+    stroke-width: 10;
+}
